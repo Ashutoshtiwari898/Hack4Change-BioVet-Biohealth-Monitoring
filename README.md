@@ -1,28 +1,28 @@
-BioVet – Biohealth Monitoring Platform
-About
+🌿🐾 BioVet – Biohealth Monitoring Platform
+📌 About
 
 BioVet is a Biohealth Monitoring platform developed during the Hack4Change'24 hackathon.
-The platform detects diseases in plants and animals using image analysis to support early diagnosis and preventive care.
+The platform detects diseases in plants and animals using image analysis, helping in early diagnosis and preventive care.
 
-BioVet integrates the Gemini API to deliver accurate and intelligent disease predictions based on uploaded images.
+BioVet leverages the Gemini API to provide accurate and intelligent disease predictions based on uploaded images, making biohealth monitoring faster, smarter, and more accessible.
 
-Features
+🚀 Features
 
-Image-based disease detection for plants and animals
+📷 Image-based Disease Detection for plants and animals
 
-AI-powered disease prediction using Gemini API
+🧠 AI-powered Predictions using Gemini API
 
-Supports agriculture and veterinary health use cases
+🌱 Supports Agriculture & Veterinary Use Cases
 
-Simple and user-friendly web interface
+⚡ Fast and user-friendly interface
 
-Designed for real-world biohealth impact
+🌍 Built with real-world impact in mind for sustainability and health
 
-Tech Stack
+🛠️ Tech Stack
 
-Frontend: (Add details if applicable)
+Frontend: (Add if applicable – React, HTML, CSS, etc.)
 
-Backend: (Add details if applicable)
+Backend: (Add if applicable – Node.js, Python, etc.)
 
 AI / ML: Gemini API
 
@@ -30,28 +30,28 @@ Image Analysis: Computer Vision techniques
 
 Platform: Web Application
 
-How It Works
+⚙️ How It Works
 
-The user uploads an image of a plant or animal.
+User uploads an image of a plant leaf or animal.
 
-The image is analyzed using computer vision techniques.
+The image is processed using image analysis techniques.
 
-Processed data is sent to the Gemini API.
+The processed data is sent to the Gemini API.
 
 The system predicts the possible disease and provides insights.
 
-Use Cases
+🧪 Use Cases
 
-Crop disease detection for farmers
+🌾 Farmers detecting crop diseases early
 
-Animal health diagnosis support for veterinarians
+🐶 Veterinarians assisting animal health diagnosis
 
-Biohealth research and education
+🧬 Biohealth researchers and students
 
-Sustainable agriculture and animal healthcare
+🌱 Sustainable agriculture and animal care initiatives
 
-Hackathon
+🏆 Hackathon
 
 Event: Hack4Change'24
 
-Focus: Technology for social and environmental impact
+Theme: Technology for Social & Environmental Impact
