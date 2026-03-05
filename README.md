@@ -1,57 +1,109 @@
-🌿🐾 BioVet – Biohealth Monitoring Platform
-📌 About
+# 🌿🐾 BIOVET – BIOHEALTH MONITORING PLATFORM
 
-BioVet is a Biohealth Monitoring platform developed during the Hack4Change'24 hackathon.
-The platform detects diseases in plants and animals using image analysis, helping in early diagnosis and preventive care.
+## 📌 ABOUT
 
-BioVet leverages the Gemini API to provide accurate and intelligent disease predictions based on uploaded images, making biohealth monitoring faster, smarter, and more accessible.
+**BioVet** is a **Biohealth Monitoring Platform** developed during the **Hack4Change'24 Hackathon**. The platform helps detect diseases in **plants and animals** using **image analysis**, enabling early diagnosis and preventive care.
 
-🚀 Features
+BioVet uses the **Gemini API** to generate **accurate and intelligent disease predictions** from uploaded images. The goal of this platform is to make **biohealth monitoring faster, smarter, and more accessible**, especially for agriculture and veterinary applications.
 
-📷 Image-based Disease Detection for plants and animals
+The system is designed with a **real-world impact in mind**, helping farmers, veterinarians, and researchers identify potential diseases early and take preventive action.
 
-🧠 AI-powered Predictions using Gemini API
+---
 
-🌱 Supports Agriculture & Veterinary Use Cases
+# 🚀 FEATURES
 
-⚡ Fast and user-friendly interface
+### 📷 Image-based Disease Detection
+- Upload images of plant leaves or animals
+- Detect possible diseases using AI-based analysis
 
-🌍 Built with real-world impact in mind for sustainability and health
+### 🧠 AI-Powered Predictions
+- Uses **Gemini API** to analyze images
+- Provides intelligent disease predictions and insights
 
-🛠️ Tech Stack
+### 🌱 Agriculture & Veterinary Support
+- Helps farmers detect crop diseases early
+- Assists veterinarians in animal health monitoring
 
-Frontend: (Add if applicable – React, HTML, CSS, etc.)
+### ⚡ Fast & User-Friendly Interface
+- Simple and intuitive interface
+- Quick image upload and prediction results
 
-Backend: (Add if applicable – Node.js, Python, etc.)
+### 🌍 Real-World Impact
+- Supports sustainable agriculture
+- Promotes better animal healthcare
+- Designed for social and environmental impact
 
-AI / ML: Gemini API
+---
 
-Image Analysis: Computer Vision techniques
+# 🛠 TECH STACK
 
-Platform: Web Application
+### Frontend
+- HTML
+- CSS
+- JavaScript
 
-⚙️ How It Works
+### Backend
+- Node.js
+- Express.js
 
-User uploads an image of a plant leaf or animal.
+### AI / ML
+- **Gemini API**
 
-The image is processed using image analysis techniques.
+### Image Processing
+- Computer Vision techniques
 
-The processed data is sent to the Gemini API.
+### Platform
+- Web Application
 
-The system predicts the possible disease and provides insights.
+---
 
-🧪 Use Cases
+# ⚙️ HOW IT WORKS
 
-🌾 Farmers detecting crop diseases early
+1️⃣ The user uploads an image of a **plant leaf or animal**.
 
-🐶 Veterinarians assisting animal health diagnosis
+2️⃣ The system processes the image using **image analysis techniques**.
 
-🧬 Biohealth researchers and students
+3️⃣ The processed image data is sent to the **Gemini API**.
 
-🌱 Sustainable agriculture and animal care initiatives
+4️⃣ The AI model analyzes the image and predicts the **possible disease**.
 
-🏆 Hackathon
+5️⃣ The system returns **diagnosis insights and recommendations** to the user.
 
-Event: Hack4Change'24
+---
 
-Theme: Technology for Social & Environmental Impact
+# 🧪 USE CASES
+
+🌾 **Farmers**
+- Detect crop diseases early
+- Prevent crop damage and yield loss
+
+🐶 **Veterinarians**
+- Assist in diagnosing animal health conditions
+
+🧬 **Researchers & Students**
+- Study plant and animal diseases using AI-based analysis
+
+🌱 **Sustainable Agriculture**
+- Support eco-friendly farming and animal care initiatives
+
+---
+
+# 🏆 HACKATHON
+
+**Event:** Hack4Change'24  
+**Theme:** Technology for Social & Environmental Impact
+
+BioVet was built as part of this hackathon to create a **technology-driven solution for biohealth monitoring** that supports agriculture, animal care, and sustainability.
+
+---
+
+# 👨‍💻 AUTHOR
+
+**Ashutosh Kumar Tiwari**
+
+GitHub  
+https://github.com/Ashutoshtiwari898
+
+---
+
+⭐ **If you like this project, consider giving it a star on GitHub!**
